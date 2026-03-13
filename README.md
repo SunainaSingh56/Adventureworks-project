@@ -75,9 +75,9 @@ Power BI dashboard created to visualize:
 
 Example:
 
-![Sales Dashboard](Screenshot 2026-03-13 182800.png)
+[Sales Dashboard](Screenshot 2026-03-13 182800.png)
 
-![Product Analysis](dashboard/dashboard2.png)
+[Product Analysis](dashboard/dashboard2.png)
 
 ---
 
