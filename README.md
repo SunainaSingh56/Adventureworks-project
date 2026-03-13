@@ -77,14 +77,14 @@ Example:
 
 ## 📊 Power BI Dashboard
 
-![AdventureWorks Dashboard](Screenshots/Screenshot 2026-03-13 182731.png)
+![https://github.com/SunainaSingh56/Adventureworks-project/tree/main](Screenshots/Screenshot 2026-03-13 182731.png)
 [Product Analysis](Screenshots/dashboard2.png)
 
 ---
 
 # 📈 Key Business Insights
 
-From the analysis, several important insights were discovered:
+From the analysis, sehttps://github.com/SunainaSingh56/Adventureworks-project/tree/mainveral important insights were discovered:
 
 • A small number of products contribute significantly to total revenue  
 
