@@ -75,7 +75,7 @@ Power BI dashboard created to visualize:
 
 Example:
 
-![Sales Dashboard](Sales Dashboard.png)
+![Sales Dashboard]("C:\Users\naina\OneDrive\Pictures\Screenshots\Sales Dashboard.png")
 
 ![Product Analysis](dashboard/dashboard2.png)
 
