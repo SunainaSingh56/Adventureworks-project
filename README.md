@@ -72,11 +72,8 @@ Power BI dashboard created to visualize:
 ---
 
 # 📊 Dashboard Preview
-
-Example:
-
 ## 📊 Power BI Dashboard
-PowerBI Dashboard/customer_product.png
+
 ---
 
 # 📈 Key Business Insights
