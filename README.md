@@ -77,9 +77,7 @@ Example:
 
 ## 📊 Power BI Dashboard
 
-![AdventureWorks Dashboard](## 📊 Power BI Dashboard
-
-![AdventureWorks Dashboard](Screenshots/dashboard.png))
+![AdventureWorks Dashboard](Screenshots/dashboard.png)
 [Product Analysis](dashboard/dashboard2.png)
 
 ---
