@@ -71,11 +71,6 @@ Power BI dashboard created to visualize:
 
 ---
 
-# 📊 Dashboard Preview
-## 📊 Power BI Dashboard
-
----
-
 # 📈 Key Business Insights
 
 From the analysis, sehttps://github.com/SunainaSingh56/Adventureworks-project/tree/mainveral important insights were discovered:
@@ -141,5 +136,3 @@ Possible extensions of this project include:
 
 Aspiring Data Analyst passionate about transforming data into actionable insights.
 
-LinkedIn: (add your LinkedIn link)  
-GitHub: (add your GitHub profile link)
