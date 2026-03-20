@@ -69,6 +69,11 @@ Adventureworks-project/
 > Road Bikes lead in revenue at **$29.65K** — a key product line for promotional campaigns.
 
 ---
+## 📸 Dashboard Preview
+
+![AdventureWorks Dashboard 1](adventureworks_dashboard.png)
+
+![AdventureWorks Dashboard 2](adventureworks_dashboard2.png)
 
 ## 📫 Connect with Me
 
