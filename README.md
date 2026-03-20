@@ -1,138 +1,76 @@
-# 📊 AdventureWorks Sales Data Analysis
-
-This project analyzes the **AdventureWorks dataset** to uncover business insights related to sales performance, customer behavior, and product demand.  
-The analysis demonstrates practical data analytics skills using **SQL, Python, and Power BI**.
-
----
-
-# 📌 Project Objective
-
-The goal of this project is to analyze sales data to:
-
-• Identify top-performing products  
-• Understand customer purchasing patterns  
-• Analyze regional sales performance  
-• Generate insights through interactive dashboards  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AdventureWorks+Sales+Data+Analysis;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas" alt="Typing SVG" />
+</div>
 
 ---
 
-# 🛠 Tools & Technologies Used
-
-- SQL
-- Python (Pandas, NumPy)
-- Power BI
-- Excel
-- Jupyter Notebook
+## 📌 Overview
+End-to-end sales data analysis on the **AdventureWorks** dataset — covering data cleaning, exploratory data analysis and interactive Power BI dashboards to support business decision-making.
 
 ---
 
-# 📂 Dataset
-
-The **AdventureWorks dataset** contains transactional and business data including:
-
-- Sales orders
-- Customer information
-- Product details
-- Sub-product categories
-
-This dataset is widely used for **business intelligence and data analytics practice**.
+## 🎯 Problem Statement
+The business needed clarity on which **products, regions and customer segments** were driving revenue and profit — across 121,000+ transaction records spread over 5 relational tables.
 
 ---
 
-# 🔎 Data Analysis Process
+## 🛠️ Tech Stack
 
-The following steps were performed during the analysis:
-
-### 1️⃣ Data Cleaning
-- Removed missing and duplicate values
-- Standardized column names
-- Prepared dataset for analysis
-
-### 2️⃣ Exploratory Data Analysis (EDA)
-- Analyzed sales trends
-- Examined product performance
-- Investigated customer purchasing patterns
-
-### 3️⃣ SQL Analysis
-Key queries were written to analyze:
-
-- Total sales by product category
-- Revenue by region
-- Top customers by sales
-- Monthly sales trends
-
-### 4️⃣ Data Visualization
-Power BI dashboard created to visualize:
-
-- Revenue trends
-- Top selling products
-- Regional sales distribution
-- Customer purchase behavior
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-# 📈 Key Business Insights
-
-From the analysis, sehttps://github.com/SunainaSingh56/Adventureworks-project/tree/mainveral important insights were discovered:
-
-• A small number of products contribute significantly to total revenue  
-
-• Certain regions generate higher sales compared to others  
-
-• Seasonal patterns affect sales performance  
-
-• A small group of customers contributes a large portion of total sales  
-
----
-
-# 📁 Project Structure
-
+## 📁 Repository Structure
 ```
-AdventureWorks-Sales-Analysis
-│
-├── data
-│   └── adventureworks_dataset.csv
-│
-├── sql
-│   └── sales_analysis_queries.sql
-│
-├── python
-│   └── adventureworks_analysis.ipynb
-│
-├── dashboard
-│   └── adventureworks_dashboard.pbix
-│
-└── README.md
+Adventureworks-project/
+├── 📂 Raw data/           → Original dataset files
+├── 📂 Data_cleaning/      → Cleaned & processed data
+├── 📂 EDA_analysis/       → Exploratory data analysis notebooks
+├── 📂 SQL Databases/      → SQL queries for KPI extraction
+├── 📂 PowerBI Dashboard/  → .pbix dashboard file
+└── 📄 README.md
 ```
 
 ---
 
-# 🚀 Skills Demonstrated
+## 🔍 What I Did
 
-Through this project the following skills were demonstrated:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- SQL Query Writing
-- Data Visualization
-- Business Insight Generation
-- Dashboard Development
+- ✅ Cleaned and merged **5 relational tables** using Pandas & NumPy
+- ✅ Performed full **EDA** — nulls, outliers, distributions, correlations
+- ✅ Wrote **SQL queries** for aggregation, joins and KPI extraction
+- ✅ Built **2 Power BI dashboards** with 19+ visuals and dynamic filters
+- ✅ Delivered business recommendations based on findings
 
 ---
 
-# 🔮 Future Improvements
+## 📊 Key Findings
 
-Possible extensions of this project include:
-
-- Sales forecasting using machine learning
-- Customer segmentation analysis
-- Profitability analysis by product category
+| Metric | Value |
+|---|---|
+| 📦 Total Records Analyzed | 121,000+ |
+| 💰 Total Revenue | $114,667 |
+| 📈 Total Profit | $49,248 |
+| 🛒 Total Orders | 2,630 |
+| 👥 Total Customers | 17,775 |
+| 🏆 Top Product | Road Bikes ($29.65K) |
+| 🥇 Top Category by Profit | Components (50.94%) |
 
 ---
 
-# 👩‍💻 Author
+## 💡 Business Impact
 
-**Sunaina Singh**
+> Components category drives **50.94% of total profit** despite not being the top revenue product — signaling a high-margin opportunity for focused inventory investment.
 
-Aspiring Data Analyst passionate about transforming data into actionable insights.
+> Road Bikes lead in revenue at **$29.65K** — a key product line for promotional campaigns.
 
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunainasinghda-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sunainasinghda)
+[![GitHub](https://img.shields.io/badge/GitHub-SunainaSingh56-181717?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)
